@@ -1,6 +1,6 @@
 # DM2583_DHM_Project
 
-Please create an empty folder called predictions in the same level as main.py, thats where the generated predictions are saved.
+Please create an empty folder called predictions on the same level as main.py, thats where the generated predictions are saved.
 
 You will also have to import your own csv files, see variables:\
 training_data_set\
